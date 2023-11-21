@@ -1,5 +1,5 @@
 {
-  "expression": [ // /模型/expression文件夹内的各文件
+  "expressions": [ // /模型/expression文件夹内的各文件
     {
       "file": "expression/chijing.exp.json",
       "name": "chijing.exp.json"
