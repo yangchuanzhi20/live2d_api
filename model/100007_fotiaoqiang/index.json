@@ -1,5 +1,5 @@
 {
-	"name": "fotiaoqiang",
+	"name": "longjin",
 	"model": "model.moc",
 	"textures": [
 		"texture_00.png"
@@ -29,6 +29,10 @@
 		{
 			"name": "shengqi.exp.json",
 			"file": "expression/shengqi.exp.json"
+		},
+		{
+			"name": "shishen.json",
+			"file": "expression/shishen.exp.json"
 		}
 
 	],
@@ -48,11 +52,12 @@
 			{ "file": "action/idle.mtn" }
 		],
 		"flick_head": [
-			{ "file": "action/yaotou.mtn" },
-			{ "file": "action/liaofa.mtn" }
+			{ "file": "action/sikao.mtn" },
+			{ "file": "action/shuaishou.mtn" }
 		],
 		"tap_body": [
-			{ "file": "action/chenglian.mtn" }
+			{ "file": "action/huishanzi.mtn" },
+			{ "file": "action/baobi.mtn" }
 		]
 	}
 }

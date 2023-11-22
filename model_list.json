@@ -1,10 +1,6 @@
 {
   "models": [
     [
-      "ShizukuTalk/shizuku-48",
-      "ShizukuTalk/shizuku-pajama"
-    ],
-    [
       "HyperdimensionNeptunia/neptune_classic",
       "HyperdimensionNeptunia/nepnep",
       "HyperdimensionNeptunia/neptune_santa",
@@ -28,13 +24,15 @@
     ],
     "KantaiCollection/murakumo",
     "100012_dezhoupaji",
-    "100005_lonjingxiaren"
+    "100005_lonjingxiaren",
+    "100007_fotiaoqiang"
   ],
   "messages": [
     "Shizuku Talk ！这里是 Shizuku ~",
     "Nep! Nep! 超次元游戏：海王星 系列",
     "艦隊これくしょん / 叢雲(むらくも)",
     "我是德州扒鸡，你好。",
-    "龙井虾仁？你居然直呼我的大名，有趣。"
+    "龙井虾仁？你居然直呼我的大名，有趣。",
+    "不知道你听没听说过我的名字，佛跳墙。"
   ]
 }
