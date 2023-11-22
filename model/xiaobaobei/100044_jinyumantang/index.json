@@ -1,5 +1,5 @@
 {
-	"name": "longjin",
+	"name": "jinyumantang",
 	"model": "model.moc",
 	"textures": [
 		"texture_00.png"
@@ -31,14 +31,14 @@
 			"file": "expression/shengqi.exp.json"
 		},
 		{
-			"name": "shishen.json",
-			"file": "expression/shishen.exp.json"
+			"name": "deyi.exp.json",
+			"file": "expression/deyi.exp.json"
 		}
 
 	],
 	"layout": {
 		"center_x": 0,
-		"center_y": -0.45,
+		"center_y": -0.25,
 		"width": 1.8
 	},
 	"hit_areas_custom": {
@@ -52,12 +52,10 @@
 			{ "file": "action/idle.mtn" }
 		],
 		"flick_head": [
-			{ "file": "action/sikao.mtn" },
-			{ "file": "action/shuaishou.mtn" }
+			{ "file": "action/sajiao.mtn" }
 		],
 		"tap_body": [
-			{ "file": "action/huishanzi.mtn" },
-			{ "file": "action/baobi.mtn" }
+			{ "file": "action/shenshou.mtn" }
 		]
 	}
 }
