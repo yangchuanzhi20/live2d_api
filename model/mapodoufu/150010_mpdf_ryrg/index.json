@@ -1,5 +1,5 @@
 {
-	"name": "jinrongjisisun",
+	"name": "mpdf2",
 	"model": "model.moc",
 	"textures": [
 		"texture_00.png"
@@ -29,12 +29,16 @@
 		{
 			"name": "shengqi.exp.json",
 			"file": "expression/shengqi.exp.json"
+		},
+		{
+			"name": "xiangshou.json",
+			"file": "expression/xiangshou.exp.json"
 		}
 
 	],
 	"layout": {
 		"center_x": 0,
-		"center_y": -0.26,
+		"center_y": -0.45,
 		"width": 1.8
 	},
 	"hit_areas_custom": {
@@ -48,10 +52,14 @@
 			{ "file": "action/idle.mtn" }
 		],
 		"flick_head": [
-			{ "file": "action/niutou.mtn" }
+			{ "file": "action/niulian.mtn" },
+			{ "file": "action/diantou.mtn" },
+			{ "file": "action/rap.mtn" },
+			{ "file": "action/yaotou.mtn" }
 		],
 		"tap_body": [
-			{ "file": "action/sikao.mtn" }
+			{ "file": "action/shuaishou.mtn" },
+			{ "file": "action/zhuanmai.mtn" }
 		]
 	}
 }

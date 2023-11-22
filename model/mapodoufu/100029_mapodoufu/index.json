@@ -1,5 +1,5 @@
 {
-	"name": "jinrongjisisun",
+	"name": "mpdf1",
 	"model": "model.moc",
 	"textures": [
 		"texture_00.png"
@@ -34,7 +34,7 @@
 	],
 	"layout": {
 		"center_x": 0,
-		"center_y": -0.26,
+		"center_y": -0.45,
 		"width": 1.8
 	},
 	"hit_areas_custom": {
@@ -48,10 +48,10 @@
 			{ "file": "action/idle.mtn" }
 		],
 		"flick_head": [
-			{ "file": "action/niutou.mtn" }
+			{ "file": "action/niulian.mtn" }
 		],
 		"tap_body": [
-			{ "file": "action/sikao.mtn" }
+			{ "file": "action/shuaishou.mtn" }
 		]
 	}
 }
