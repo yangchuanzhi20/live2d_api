@@ -1,0 +1,58 @@
+{
+	"name": "songshuyou4",
+	"model": "model.moc",
+	"textures": [
+		"texture_00.png"
+	],
+	"physics": "moc/physics.json",
+	"expressions": [
+		{
+			"name": "chijing.exp.json",
+			"file": "expression/chijing.exp.json"
+		},
+		{
+			"name": "nuyi.exp.json",
+			"file": "expression/nuyi.exp.json"
+		},
+		{
+			"name": "shayi.exp.json",
+			"file": "expression/shayi.exp.json"
+		},
+		{
+			"name": "idle.exp.json",
+			"file": "expression/idle.exp.json"
+		},
+		{
+			"name": "nanguo.exp.json",
+			"file": "expression/nanguo.exp.json"
+		},
+		{
+			"name": "xiaoyi.exp.json",
+			"file": "expression/xiaoyi.exp.json"
+		}
+
+	],
+	"layout": {
+		"center_x": 0,
+		"center_y": -0.2,
+		"width": 1.8
+	},
+	"hit_areas_custom": {
+		"head_x": [ -0.35, 0.6 ],
+		"head_y": [ 0.19, -0.2 ],
+		"body_x": [ -0.3, -0.25 ],
+		"body_y": [ 0.3, -0.9 ]
+	},
+	"motions": {
+		"idle": [
+			{ "file": "action/idle.mtn" }
+		],
+		"flick_head": [
+			{ "file": "action/hubi.mtn" },
+			{ "file": "action/doumao.mtn" }
+		],
+		"tap_body": [
+			{ "file": "action/weixie.mtn" }
+		]
+	}
+}

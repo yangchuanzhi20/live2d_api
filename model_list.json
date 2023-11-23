@@ -2,14 +2,39 @@
   "models": [
     [
       "songshuguiyu/100020_songshuguiyu(youmianju)",
-      "songshuguiyu/100043_songshuguiyu(wumianju)"
+      "songshuguiyu/100043_songshuguiyu(wumianju)",
+      "songshuguiyu/150020_ssgy_cywy",
+      "songshuguiyu/150021_ssgu_nfxt"
     ],
-    "100012_dezhoupaji",
-    "100005_lonjingxiaren",
-    "100007_fotiaoqiang",
-    "100015_jironjinsisun",
-    "100023_fulijishaoji",
-    "100026_yipinguo",
+    [
+      "dzpj/100012_dezhoupaji",
+      "dzpj/150012_dzpj_fyyj",
+      "dzpj/150039_dzpj_yz"
+    ],
+    [
+      "ljxr/100005_lonjingxiaren",
+      "ljxr/150013_ljxr_chyz",
+      "ljxr/150024_ljxr_qy"
+    ],
+    [
+      "ftq/100007_fotiaoqiang",
+      "ftq/150005_ftq_kqmw",
+      "ftq/150008_ftq_qy"
+    ],
+    [
+      "jrjss/100015_jironjinsisun",
+      "jrjss/150015_jrjss_czjl",
+      "jrjss/150031_jrjss_qy"
+    ],
+    [
+      "fljsj/100023_fulijishaoji",
+      "fljsj/150038_fljsj_yz"
+    ],
+    [
+      "ypg/100026_yipinguo",
+      "ypg/150029_ypg_zysl",
+      "ypg/150026_ypg_yhxz"
+    ],
     [
       "xiaobaobei/100011_choujueyu",
       "xiaobaobei/100006_qingtuan",
@@ -20,7 +45,10 @@
       "mapodoufu/100029_mapodoufu",
       "mapodoufu/150010_mpdf_ryrg"
     ],
-    "100047_kaishuibaicai",
+    [
+      "ksbc/100047_kaishuibaicai",
+      "ksbc/150019_ksbc_swxz"
+    ],
     "100071_tby",
     "100048_lianhuaxueya",
     "100080_flt_huan",
@@ -28,7 +56,10 @@
     "100103_yfcy",
     "100068_sxtgy",
     "100079_fssq_huan",
-    "100090_xnc",
+    [
+      "xnc/100090_xnc",
+      "xnc/150009_xnc_qy"
+    ],
     [
       "tsj/100088_tsj",
       "tsj/150041_tsj_xwjs"

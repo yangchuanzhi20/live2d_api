@@ -1,5 +1,5 @@
 {
-	"name": "tsj1",
+	"name": "dezhou3",
 	"model": "model.moc",
 	"textures": [
 		"texture_00.png"
@@ -15,8 +15,8 @@
 			"file": "expression/haixiu.exp.json"
 		},
 		{
-			"name": "xianqi.exp.json",
-			"file": "expression/xianqi.exp.json"
+			"name": "kaixin.exp.json",
+			"file": "expression/kaixin.exp.json"
 		},
 		{
 			"name": "idle.exp.json",
@@ -31,8 +31,8 @@
 			"file": "expression/shengqi.exp.json"
 		},
 		{
-			"name": "yuyue.json",
-			"file": "expression/yuyue.exp.json"
+			"name": "ganga.exp.json",
+			"file": "expression/ganga.exp.json"
 		}
 
 	],
@@ -52,13 +52,12 @@
 			{ "file": "action/idle.mtn" }
 		],
 		"flick_head": [
-			{ "file": "action/danhui.mtn" },
-			{ "file": "action/diantou.mtn" },
-			{ "file": "action/paiyi.mtn" }
+			{ "file": "action/baobi.mtn" },
+			{ "file": "action/diantou.mtn" }
 		],
 		"tap_body": [
-			{ "file": "action/zhiwu.mtn" },
-			{ "file": "action/sikao.mtn" },
+			{ "file": "action/moxiaba.mtn" },
+			{ "file": "action/shenshou.mtn" },
 			{ "file": "action/yaotou.mtn" }
 		]
 	}
