@@ -1,0 +1,67 @@
+{
+	"name": "sxtgy",
+	"model": "model.moc",
+	"textures": [
+		"texture_00.png"
+	],
+	"physics": "moc/physics.json",
+	"expressions": [
+		{
+			"name": "chaoxiao.exp.json",
+			"file": "expression/chaoxiao.exp.json"
+		},
+		{
+			"name": "shihuai.exp.json",
+			"file": "expression/shihuai.exp.json"
+		},
+		{
+			"name": "yansu.exp.json",
+			"file": "expression/yansu.exp.json"
+		},
+		{
+			"name": "idle.exp.json",
+			"file": "expression/idle.exp.json"
+		},
+		{
+			"name": "nanguo.exp.json",
+			"file": "expression/nanguo.exp.json"
+		},
+		{
+			"name": "shengqi.exp.json",
+			"file": "expression/shengqi.exp.json"
+		},
+		{
+			"name": "yonglan.json",
+			"file": "expression/yonglan.exp.json"
+		},
+		{
+			"name": "zhiyi.json",
+			"file": "expression/zhiyi.exp.json"
+		}
+
+	],
+	"layout": {
+		"center_x": 0,
+		"center_y": -0.45,
+		"width": 1.8
+	},
+	"hit_areas_custom": {
+		"head_x": [ -0.4, 0.9 ],
+		"head_y": [ 0.4, 0.6 ],
+		"body_x": [ -0.4, 0.5 ],
+		"body_y": [ 0.4, -0.9 ]
+	},
+	"motions": {
+		"idle": [
+			{ "file": "action/idle.mtn" }
+		],
+		"flick_head": [
+			{ "file": "action/guancha.mtn" },
+			{ "file": "action/xiemei.mtn" }
+		],
+		"tap_body": [
+			{ "file": "action/xiangzhi.mtn" },
+			{ "file": "action/yanmian.mtn" }
+		]
+	}
+}
